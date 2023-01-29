@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-web-view",
+    "slug": "rn-web-view",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-web-view"
+}
